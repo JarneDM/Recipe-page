@@ -38,11 +38,11 @@ p{
 .container{
     background-color: white;
     width: 500px;
-    border-radius: 15px;
+    border-radius: 20px;
     margin: 0 auto;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    padding: 30px;
 }
 
 
