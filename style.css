@@ -29,6 +29,7 @@
 body{
     background-color: hsl(30, 54%, 90%);
     padding: 40px;
+    padding-left: 0;
 }
 
 p{
@@ -68,4 +69,18 @@ img{
 
 .list-instr li{
     color: hsl(30, 10%, 34%);
+}
+
+.table-nutr{
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+td{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    padding-right: 10rem;
+    width: 75%;
 }
